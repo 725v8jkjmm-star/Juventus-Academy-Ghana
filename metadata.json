@@ -1,0 +1,6 @@
+{
+  "name": "Juventus Academy Ghana",
+  "description": "The official high-performance youth soccer academy of Juventus in Ghana. Training champions on and off the pitch.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["registration", "scheduling", "program-management"]
+}
